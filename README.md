@@ -1,7 +1,7 @@
-# automated-form-filling
-
-## Introduction
+# Introduction
 Starting with the insane amount of forms given out, I finally learnt how to automate the filling using Selenium. I hope you enjoy!
+
+For educational purposes only. ⚠️
 
 ## Clone this repo
 
@@ -9,6 +9,7 @@ Starting with the insane amount of forms given out, I finally learnt how to auto
 git clone https://github.com/dimaswsss/automated-form-filling.git
 ```
 
+# Procedure
 ## Procedure to run program
 To use this program, the steps are as follows:
 1. Make sure you are a student of the Sumatera Institute of Technology, and on your SIAKAD page there is already a waiting questionnaire.
@@ -24,3 +25,5 @@ Haha.
 4. If so, open the **main.py** file, and edit the 14th and 15th lines. Enter your email and password.
 5. Run the program. [Watch](https://www.youtube.com/watch?v=OfhPiW4tThI) here.
 
+
+# Thank u! DWYOR!
