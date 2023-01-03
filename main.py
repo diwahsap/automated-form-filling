@@ -11,8 +11,8 @@ driver.implicitly_wait(10)
 driver.find_element_by_css_selector('#modal_warning > div > div > div.modal-header > button').click()
 
 # authentication
-driver.find_element_by_css_selector('#user').send_keys('dimas.120450081@student.itera.ac.id') # your email
-driver.find_element_by_css_selector('#pwd').send_keys('Dimas.120450081') # your password
+driver.find_element_by_css_selector('#user').send_keys('# your email') # your email
+driver.find_element_by_css_selector('#pwd').send_keys('# your password') # your password
 
 # verification
 messagebox.showinfo(title='Verification', message='Finish on screen verification, and then click OK.')
